@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    tailwindcss-rails (2.0.7)
+    tailwindcss-rails (3.0.0)
       railties (>= 6.0.0)
 
 GEM
@@ -96,4 +96,4 @@ DEPENDENCIES
   tailwindcss-rails!
 
 BUNDLED WITH
-   2.2.32
+   2.3.5
