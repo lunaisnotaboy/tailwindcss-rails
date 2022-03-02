@@ -5,8 +5,8 @@ Gem::Specification.new do |spec|
   spec.version     = Tailwindcss::VERSION
   spec.authors     = [ "David Heinemeier Hansson" ]
   spec.email       = "david@loudthinking.com"
-  spec.homepage    = "https://github.com/rails/tailwindcss-rails"
-  spec.summary     = "Integrate Tailwind CSS with the asset pipeline in Rails."
+  spec.homepage    = "https://github.com/lunaisnotaboy/tailwindcss-rails"
+  spec.summary     = "Tailwind without Lato."
   spec.license     = "MIT"
 
   spec.metadata = {
